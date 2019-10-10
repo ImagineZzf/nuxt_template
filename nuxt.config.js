@@ -24,7 +24,7 @@ module.exports = {
   },
   axios: {
     baseURL:
-      (ISPROD ? 'https://api.rsxq.com' : 'https://xingqiu.mayitest.cn') + '/api'
+      (ISPROD ? 'https://api.release.com' : 'https://api.test.com') + '/api'
   },
   router: {
     scrollBehavior: function(to, from, savedPosition) {
