@@ -17,7 +17,7 @@
     "cross-env": "^5.2.0",
     "element-ui": "^2.4.6",
     "koa": "^2.5.2",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "vuex-persistedstate": "^2.5.4"
   },
   "devDependencies": {
